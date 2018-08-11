@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-jms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 12363
+Implementation-Vendor-Id: com.yannoyan
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-learning/springboot-jms
+Created-By: Maven Integration for Eclipse
+
